@@ -9,5 +9,6 @@ public class git {
         System.out.println("版本一");
         System.out.println("版本二");
         System.out.println("版本三");
+        System.out.println("hot-fix 版本一");
     }
 }
